@@ -1,41 +1,42 @@
-<img src="https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png" style="margin: 0;">
+# Vinod Kathi Portfolio
+Milestone one project: User-Centric Frontend Development - Code Institute
+This is my portfolio website to present myself to employers and recruitment agencies.The portfolio highlights my experience and my projects that cover a range of technologies, as well as including a bit about myself, my coding skills, and a contact form.Language version English.
 
-Welcome USER_NAME,
+## User stories
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project.
+#   UX
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
-## Gitpod Reminders
+##  Strategy
+My goal in the design was to make it as easy as possible to access information on the site while striving for a minimalist and user-friendly design.
+##  Scope
+For employers, I wanted to provide them with a brief overview of myself and my capabilities. This way, they would be able to get a glimpse of who I am, my background, work I've done, and my skills, with the option to contact me if they choose.
+##  Structure
+In the 'Work/Travail' section, I wanted them to be able to quickly access work that I've done, providing a short summary of the project and main technologies with a link to each GitHub Repository and live demo. A link to my LinkedIn profile, my GitHub, and a downloadable PDF version of my CV were also provided for their ease of access.
+ 
+##  Skeleton
+[Home wireframe](https://dbd37f7c-3232-4c3f-be04-d01a9e7b6fe3.ws-eu01.gitpod.io/files/download/?id=e5af8b3f-bdd6-489f-af8d-48eb85043888)
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+[Resume wireframe](https://dbd37f7c-3232-4c3f-be04-d01a9e7b6fe3.ws-eu01.gitpod.io/files/download/?id=aaae7ed9-d8c8-4af5-9c78-8f4d19d0431d)
 
-`python3 -m http.server`
+[Contact wireframe](https://dbd37f7c-3232-4c3f-be04-d01a9e7b6fe3.ws-eu01.gitpod.io/files/download/?id=5ac7e55a-67c5-4774-a27e-867053a5ceed)
 
-A blue button should appear to click: *Make Public*,
+##  Skeleton(Mobile version)
+[Home wireframe](https://dbd37f7c-3232-4c3f-be04-d01a9e7b6fe3.ws-eu01.gitpod.io/files/download/?id=e2f6c59d-101a-4818-ba29-febfc18f4f05https://dbd37f7c-3232-4c3f-be04-d01a9e7b6fe3.ws-eu01.gitpod.io/files/download/?id=e2f6c59d-101a-4818-ba29-febfc18f4f05)
 
-Another blue button should appear to click: *Open Browser*.
+[Resume wireframe](https://dbd37f7c-3232-4c3f-be04-d01a9e7b6fe3.ws-eu01.gitpod.io/files/download/?id=f29b13c9-b60d-4bae-b1ed-43208545bf08)
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+[Contact wireframe](https://dbd37f7c-3232-4c3f-be04-d01a9e7b6fe3.ws-eu01.gitpod.io/files/download/?id=e8e7eae6-b516-4062-b5de-2990f53b8cfc)
 
-A blue button should appear to click: *Make Public*,
+##  Surface
+The greyscale color scheme was chosen to create a sleek and modern feel.
+##  Technologies
+HTML
 
-Another blue button should appear to click: *Open Browser*.
+CSS
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the backend lessons.
+Bootstrap (3.3.7)
 
-## Updates Since The Instructional Video
+## Features
 
-We continually tweak and adjust this template to help give you the best experience. Here are the updates since the original video was made:
-
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed along with other common files.
-
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
-
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
-
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
-
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
-
---------
-
-Happy coding!
+## Testing
