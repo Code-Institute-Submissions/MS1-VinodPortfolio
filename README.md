@@ -12,7 +12,7 @@ My goal in the design was to make it as easy as possible to access information o
 ##  Scope
 For employers, I wanted to provide them with a brief overview of myself and my capabilities. This way, they would be able to get a glimpse of who I am, my background, work I've done, and my skills, with the option to contact me if they choose.
 ##  Structure
-In the 'Work/Travail' section, I wanted them to be able to quickly access work that I've done, providing a short summary of the project and main technologies with a link to each GitHub Repository and live demo. A link to my LinkedIn profile, my GitHub, and a downloadable PDF version of my CV were also provided for their ease of access.
+I wanted them to be able to quickly access work that I've done, providing a short summary of the project and main technologies with a link to each GitHub Repository and live demo. A link to my LinkedIn profile, my GitHub, and a downloadable PDF version of my CV were also provided for their ease of access.
  
 ##  Skeleton
 [Home wireframe](https://dbd37f7c-3232-4c3f-be04-d01a9e7b6fe3.ws-eu01.gitpod.io/files/download/?id=e5af8b3f-bdd6-489f-af8d-48eb85043888)
@@ -35,8 +35,12 @@ HTML
 
 CSS
 
-Bootstrap (3.3.7)
+Bootstrap
 
 ## Features
 
 ## Testing
+
+##  Deployment
+
+##  
