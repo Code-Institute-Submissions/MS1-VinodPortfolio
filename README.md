@@ -3,9 +3,17 @@ Milestone one project: User-Centric Frontend Development - Code Institute
 This is my portfolio website to present myself to employers and recruitment agencies.The portfolio highlights my experience and my projects that cover a range of technologies, as well as including a bit about myself, my coding skills, and a contact form.Language version English.
 
 ## User stories
+Must have:
+As a user I would like to quickly and easily view Vinod's portfolio work and contact him if I like it.
+
+Should have:
+As a user I'd like to read about Vinod's thoughts on things happening in the development world.
+
+Must have:
+As a user I want to easily be able to contact Vinod.
+
 
 #   UX
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 ##  Strategy
 My goal in the design was to make it as easy as possible to access information on the site while striving for a minimalist and user-friendly design.
@@ -38,9 +46,19 @@ CSS
 Bootstrap
 
 ## Features
+This site uses the scrollSpy feature in Bootstrap for a 'smooth scrolling' effect. The navbar also stays collapsed regardless of the screen size to promote a minimalist design.
 
 ## Testing
+The employer and recruiter user story achieved the intended outcome of providing them with a showcase of myself and my work. In the about me section, they can read a bit about my background, and if they're viewing on a desktop, the background of this section is a photo of me. They are able to see my showcased projects via the project cards in the "Work" section. They can view both the live version and the GitHub repository by clicking on the Font Awesome icons. They are also able to view my social media profiles via clicking on the icons in the footer. They are also able to download my CV by either clicking on CV in the navbar dropdown, or by clicking on the document icon in the footer.
+
 
 ##  Deployment
+This site is hosted using GitHub pages, deployed directly from the master branch. The deployed site will update automatically upon new commits to the master branch. In order for the site to deploy correctly on GitHub pages, the landing page must be named index.html.
 
-##  
+To run locally, you can clone this repository directly into the editor of your choice by pasting git clone https://github.com/vinod2rahul/MS1-VinodPortfolio into your terminal. To cut ties with this GitHub repository, type git remote rm origin into the terminal.
+
+##  Credits
+All content and code in this portfolio site were written by me.
+I took inspiration code from  Code Institute's Mini Project with Bootstrap 4
+
+
