@@ -25,16 +25,16 @@ I wanted them to be able to quickly access work that I've done, providing a shor
 ##  Skeleton
 [Home wireframe](https://raw.githubusercontent.com/vinod2rahul/MS1-VinodPortfolio/master/assets/images/Wireframes/home.jpg)
 
-[Resume wireframe](https://dbd37f7c-3232-4c3f-be04-d01a9e7b6fe3.ws-eu01.gitpod.io/files/download/?id=aaae7ed9-d8c8-4af5-9c78-8f4d19d0431d)
+[Resume wireframe](https://raw.githubusercontent.com/vinod2rahul/MS1-VinodPortfolio/master/assets/images/Wireframes/resume.jpg)
 
-[Contact wireframe](https://dbd37f7c-3232-4c3f-be04-d01a9e7b6fe3.ws-eu01.gitpod.io/files/download/?id=5ac7e55a-67c5-4774-a27e-867053a5ceed)
+[Contact wireframe](https://raw.githubusercontent.com/vinod2rahul/MS1-VinodPortfolio/master/assets/images/Wireframes/contact.jpg)
 
 ##  Skeleton(Mobile version)
-[Home wireframe](https://dbd37f7c-3232-4c3f-be04-d01a9e7b6fe3.ws-eu01.gitpod.io/files/download/?id=e2f6c59d-101a-4818-ba29-febfc18f4f05https://dbd37f7c-3232-4c3f-be04-d01a9e7b6fe3.ws-eu01.gitpod.io/files/download/?id=e2f6c59d-101a-4818-ba29-febfc18f4f05)
+[Home wireframe](https://raw.githubusercontent.com/vinod2rahul/MS1-VinodPortfolio/master/assets/images/Wireframes/mobilehome.jpg)
 
-[Resume wireframe](https://dbd37f7c-3232-4c3f-be04-d01a9e7b6fe3.ws-eu01.gitpod.io/files/download/?id=f29b13c9-b60d-4bae-b1ed-43208545bf08)
+[Resume wireframe](https://raw.githubusercontent.com/vinod2rahul/MS1-VinodPortfolio/master/assets/images/Wireframes/mobileresume.jpg)
 
-[Contact wireframe](https://dbd37f7c-3232-4c3f-be04-d01a9e7b6fe3.ws-eu01.gitpod.io/files/download/?id=e8e7eae6-b516-4062-b5de-2990f53b8cfc)
+[Contact wireframe](https://raw.githubusercontent.com/vinod2rahul/MS1-VinodPortfolio/master/assets/images/Wireframes/mobilecontact.jpg)
 
 ##  Surface
 The greyscale color scheme was chosen to create a sleek and modern feel.
